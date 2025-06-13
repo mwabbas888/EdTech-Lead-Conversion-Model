@@ -68,7 +68,7 @@ Here are some of the key insights derived from the exploratory data analysis and
 
 **Current Occupation and Conversion:**
 *Insight:* **Professional** leads demonstrate the highest conversion rates, reinforcing the idea that ExtraaLearn's programs highly appeal to this demographic.
-<img src="./visualizations/status_vs_occupation.png" alt="Conversion Rate by Current Occupation"/>
+<img src="./visualizations/Status vs occupation.png" alt="Conversion Rate by Current Occupation"/>
 
 **Profile Completion as an Indicator:**
 *Insight:* Leads who complete a **'High'** percentage of their profile are considerably more likely to convert, indicating a strong level of engagement and motivation.
@@ -87,7 +87,7 @@ Here are some of the key insights derived from the exploratory data analysis and
 **Feature Importances from Models:**
 *Insight:* Both Decision Tree and Random Forest models consistently identify `time_spent_on_website`, `first_interaction_Website`, `profile_completed_Medium`, `page_views_per_visit`, and `age` as the most influential features for predicting lead conversion. These align well with the EDA findings.
 <img src="./visualizations/Feature Importance.png" alt="Decision Tree Feature Importances"/>
-<img src="./visualizations/rf_feature_importance.png" alt="Random Forest Feature Importances"/> *(Assuming you have an RF Feature Importance graph as well, otherwise use the DT one and clarify)*
+<img src="./visualizations/RF Feature Importance.png" alt="Random Forest Feature Importances"/>
 
 ---
 
@@ -121,3 +121,7 @@ Based on the analysis and predictive modeling, ExtraaLearn can implement the fol
     * Splitting data into training and testing sets.
 
 ---
+
+### 3. Organize Your Project Files (Final Check)
+
+Please ensure your repository has this exact structure and filenames:
