@@ -106,7 +106,7 @@ Based on the analysis and predictive modeling, ExtraaLearn can implement the fol
 ## Technical Details
 
 * **Language:** Python
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (for various algorithms, metrics, and preprocessing).
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
 * **Dataset:** `edtech_leads.csv` (original data was processed from a CSV file).
 * **Analysis Notebook:** `EdTech_Lead_Conversion.ipynb` (the Jupyter Notebook containing all the code).
 * **Machine Learning Models Implemented:**
@@ -120,8 +120,4 @@ Based on the analysis and predictive modeling, ExtraaLearn can implement the fol
     * Hyperparameter Tuning with GridSearchCV
     * Splitting data into training and testing sets.
 
----
 
-### 3. Organize Your Project Files (Final Check)
-
-Please ensure your repository has this exact structure and filenames:
